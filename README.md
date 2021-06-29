@@ -14,6 +14,9 @@ Kubeflow Dashboard will shown on browser and then we can look on navigation bar 
 - Manage Contributors
 
 
+
+
+
 # Notebook Server 
 Create a Jupyter notebook server and add a notebook
 
