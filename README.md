@@ -40,8 +40,6 @@ There are two ways to run pipeline in notebook
 
 We have tested both using kale as well as jupyter notebook.
 
-
-
 ## Pipelines
 
 The Kubeflow Pipelines platform consists of:
