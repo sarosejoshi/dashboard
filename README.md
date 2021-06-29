@@ -49,8 +49,6 @@ The Kubeflow Pipelines platform consists of:
     - An SDK for defining and manipulating pipelines and components.
     - Notebooks for interacting with the system using the SDK.
 
-
-
 # Kubeflow Pipeline UI
 
 In Pipeline Ui we can look on navigation bar we wiil see
